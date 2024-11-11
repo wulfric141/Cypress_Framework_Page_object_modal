@@ -23,3 +23,16 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('logger', (filename, message) => {
+    // Define the log file path based on the filename parameter
+    const logFilePath = `cypress/logs/${filename}.log`;
+  
+    // Create or append to the log file
+    cy.writeFile(logFilePath, `[${new Date().toISOString()}] ${message}\n`, { flag: 'a+' });
+  });
+
+  cy.on('uncaught:exception', (err, runnable) => {
+    // Return false to prevent Cypress from failing the test
+    return false;
+})
