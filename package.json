@@ -1,0 +1,23 @@
+{
+  "name": "cypress_framework_page_object_modal",
+  "version": "1.0.0",
+  "description": "Cypress Automation Framework Welcome to the Cypress Automation Framework repository! This framework is designed for UI, API, and performance testing using Cypress, a powerful end-to-end testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfric141/Cypress_Framework_Page_object_modal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wulfric141/Cypress_Framework_Page_object_modal/issues"
+  },
+  "homepage": "https://github.com/wulfric141/Cypress_Framework_Page_object_modal#readme",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}

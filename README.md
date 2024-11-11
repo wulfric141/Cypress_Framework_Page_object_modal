@@ -7,6 +7,7 @@ Framework Setup:
 create a github repository
 navigate to vscode and open terminal and clone repo
 Example: C:\Users\Abhishek\Desktop\Cypress> git clone https://github.com/wulfric141/Cypress_Bdd_Framework.git
+
 setup cypress
 
 npm init --yes
