@@ -4,7 +4,9 @@
   "description": "Cypress Automation Framework Welcome to the Cypress Automation Framework repository! This framework is designed for UI, API, and performance testing using Cypress, a powerful end-to-end testing framework.",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run"
+    "test": "npx cypress run",
+    "test_chrome": "npx cypress run --headed --browser chrome",
+    "run_dasboard_test": "npx cypress run --record --key 3e07e1a2-d14f-4e50-9ccc-54f431db565b --spec  cypress/e2e/*.js --headed --browser chrome"
       
   },
   "repository": {

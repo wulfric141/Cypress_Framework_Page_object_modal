@@ -62,3 +62,42 @@
 [2024-11-12T06:30:04.515Z] Launched Application-->Login Test
 [2024-11-12T06:30:07.417Z] Entered User Details-->Login Test
 [2024-11-12T06:30:11.588Z] Validated success Login Msg-->Login Test
+[2024-11-12T07:52:50.217Z] Launched Application-->Login Test
+[2024-11-12T07:52:53.036Z] Entered User Details-->Login Test
+[2024-11-12T07:52:57.173Z] Validated success Login Msg-->Login Test
+[2024-11-12T07:53:12.864Z] Launched Application-->Login Test
+[2024-11-12T07:53:15.765Z] Entered User Details-->Login Test
+[2024-11-12T07:53:20.209Z] Validated success Login Msg-->Login Test
+[2024-11-12T07:53:33.209Z] Launched Application-->SignUp Test
+[2024-11-12T07:53:34.320Z] Entered User details-->SignUp Test
+[2024-11-12T07:53:34.619Z] Verified User SignUp-->SignUp Test
+[2024-11-12T07:53:35.683Z] Launched Application-->SignUp Test
+[2024-11-12T07:53:36.759Z] Verify User Exist message
+[2024-11-12T07:53:37.137Z] Launched Application-->SignUp Test
+[2024-11-12T07:53:37.625Z] Verify Invalid Data message
+[2024-11-12T09:06:55.694Z] Launched Application-->Login Test
+[2024-11-12T09:06:58.783Z] Entered User Details-->Login Test
+[2024-11-12T09:07:03.022Z] Validated success Login Msg-->Login Test
+[2024-11-12T09:07:10.743Z] Launched Application-->Login Test
+[2024-11-12T09:07:13.719Z] Entered User Details-->Login Test
+[2024-11-12T09:07:17.982Z] Validated success Login Msg-->Login Test
+[2024-11-12T09:07:24.232Z] Launched Application-->SignUp Test
+[2024-11-12T09:07:25.408Z] Entered User details-->SignUp Test
+[2024-11-12T09:07:25.584Z] Verified User SignUp-->SignUp Test
+[2024-11-12T09:07:25.951Z] Launched Application-->SignUp Test
+[2024-11-12T09:07:27.005Z] Verify User Exist message
+[2024-11-12T09:07:27.811Z] Launched Application-->SignUp Test
+[2024-11-12T09:07:28.283Z] Verify Invalid Data message
+[2024-11-12T09:08:18.199Z] Launched Application-->Login Test
+[2024-11-12T09:08:21.124Z] Entered User Details-->Login Test
+[2024-11-12T09:08:25.318Z] Validated success Login Msg-->Login Test
+[2024-11-12T09:08:34.312Z] Launched Application-->Login Test
+[2024-11-12T09:08:37.168Z] Entered User Details-->Login Test
+[2024-11-12T09:08:41.344Z] Validated success Login Msg-->Login Test
+[2024-11-12T09:08:48.602Z] Launched Application-->SignUp Test
+[2024-11-12T09:08:49.785Z] Entered User details-->SignUp Test
+[2024-11-12T09:08:49.964Z] Verified User SignUp-->SignUp Test
+[2024-11-12T09:08:51.529Z] Launched Application-->SignUp Test
+[2024-11-12T09:08:52.536Z] Verify User Exist message
+[2024-11-12T09:08:52.943Z] Launched Application-->SignUp Test
+[2024-11-12T09:08:53.277Z] Verify Invalid Data message

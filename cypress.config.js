@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "f4ntgv",
   defaultCommandTimeout: 8000,
   env: {
     url: "https://www.demoblaze.com/"

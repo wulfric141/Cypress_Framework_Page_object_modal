@@ -10,3 +10,12 @@
 [2024-11-12T06:24:55.950Z] TotalTime taken to LoginUser: 1545ms
 [2024-11-12T06:25:43.146Z] TotalTime taken to LoginUser: 1698ms
 [2024-11-12T06:30:11.634Z] TotalTime taken to LoginUser: 1442ms
+[2024-11-12T07:52:58.054Z] TotalTime taken to ValidateMonitor's: 1359ms
+[2024-11-12T07:53:20.544Z] TotalTime taken to LoginUser: 1630ms
+[2024-11-12T07:53:34.951Z] TotalTime taken to registerUser: 1469ms
+[2024-11-12T09:07:04.171Z] TotalTime taken to ValidateMonitor's: 1781ms
+[2024-11-12T09:07:18.312Z] TotalTime taken to LoginUser: 1551ms
+[2024-11-12T09:07:25.620Z] TotalTime taken to registerUser: 1513ms
+[2024-11-12T09:08:26.913Z] TotalTime taken to ValidateMonitor's: 1756ms
+[2024-11-12T09:08:41.407Z] TotalTime taken to LoginUser: 1681ms
+[2024-11-12T09:08:49.999Z] TotalTime taken to registerUser: 1545ms
