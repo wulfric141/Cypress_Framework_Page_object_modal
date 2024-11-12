@@ -6,7 +6,7 @@ describe('Validate login scenario',()=>{
 
     beforeEach(() => {
         // Launch the application URL
-        cy.visit('https://www.demoblaze.com/');
+        cy.visit(Cypress.env('url'));
         cy.logger('application',"Launched Application-->Login Test");
       });
     
