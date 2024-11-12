@@ -16,4 +16,6 @@ Example: C:\Users\Abhishek\Desktop\Cypress> git clone https://github.com/wulfric
 5. npm install prettier (for code formatting)
 6. add .prettierrc file at the root of the project
 7. npx cypress open ( to create cypress folder)
+8. npm install -D cypress-xpath
+9. add import 'cypress-xpath' in e2e.js fie
 
