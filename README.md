@@ -19,3 +19,7 @@ Example: C:\Users\Abhishek\Desktop\Cypress> git clone https://github.com/wulfric
 8. npm install -D cypress-xpath
 9. add import 'cypress-xpath' in e2e.js fie
 
+**Integrate Mochawesome report**
+1. npm i --save-dev cypress-mochawesome-reporter
+2. follow the documentation https://www.npmjs.com/package/cypress-mochawesome-reporter
+
