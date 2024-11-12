@@ -11,12 +11,12 @@ class Login
         
     }
 
-
     setUserName(username)
     {
         cy.wait(2000)
         cy.get(this.inp_username).click().type(username);
     }
+
     setPassword(password)
     {
         cy.get(this.inp_password).click().type(password);
@@ -26,6 +26,7 @@ class Login
     {
         cy.get(this.btn_signin).click();
     }
+    
     verifyLoginSuccessMsg(successMsg)
     {
      cy.wait(4000)

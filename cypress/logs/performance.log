@@ -2,3 +2,4 @@
 [2024-11-11T08:35:33.031Z] TotalTime taken to registerUser: 1517ms
 [2024-11-11T08:58:50.162Z] TotalTime taken to LoginUser: 1571ms
 [2024-11-11T09:51:56.561Z] TotalTime taken to ValidateMonitor's: 1495ms
+[2024-11-11T09:52:41.128Z] TotalTime taken to ValidateMonitor's: 1740ms

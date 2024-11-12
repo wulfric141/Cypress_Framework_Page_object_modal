@@ -19,6 +19,7 @@ class Monitor
     {
         cy.xpath(this.monitor1).should('have.text',data);
     }
+
     Validatemonitor1Price(data)
     {
         cy.xpath(this.m1price).should('have.text',data) 
@@ -28,6 +29,7 @@ class Monitor
     {
         cy.xpath(this.monitor2).should('have.text',data);
     }
+    
     Validatemonitor2Price(data)
     {
         cy.xpath(this.m2price).should('have.text',data) ;

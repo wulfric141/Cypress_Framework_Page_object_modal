@@ -13,6 +13,7 @@ class SignUp{
     {
         cy.get(this.inp_username).click().type(username);
     }
+
     setPassword(password)
     {
         cy.get(this.inp_password).click().type(password);
@@ -22,6 +23,7 @@ class SignUp{
     {
         cy.get(this.btn_signup_on_modal).click();
     }
+    
     verifySuccessMsg(successMsg)
     {
      cy.on('window:alert',(t)=>{
