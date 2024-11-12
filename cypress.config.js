@@ -5,6 +5,9 @@ module.exports = defineConfig({
   env: {
     url: "https://www.demoblaze.com/"
   },
+  retries: {
+    runMode: 1,
+  },
 
   e2e: {
     setupNodeEvents(on, config) {
@@ -12,3 +15,4 @@ module.exports = defineConfig({
     },
   },
 });
+ 
