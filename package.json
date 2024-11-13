@@ -26,6 +26,7 @@
     "cypress-xpath": "^2.0.1"
   },
   "dependencies": {
+    "mysql": "^2.18.1",
     "prettier": "^3.3.3"
   }
 }

@@ -2,7 +2,7 @@
 import '../support/commands';
 
 
-describe('Validate db scenario',()=>{
+context('Validate db scenario',()=>{
 
    
     it('Verify db test',()=>{
